@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "daijunyi.pay",
+      "type": "com.daijunyi.spring.boot.autoconfigure.PayProperties",
+      "sourceType": "com.daijunyi.spring.boot.autoconfigure.PayProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "daijunyi.pay.app-id",
+      "type": "java.lang.String",
+      "sourceType": "com.daijunyi.spring.boot.autoconfigure.PayProperties"
+    },
+    {
+      "name": "daijunyi.pay.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.daijunyi.spring.boot.autoconfigure.PayProperties"
+    }
+  ],
+  "hints": []
+}
