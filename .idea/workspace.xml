@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68fca4ec-d7b4-492d-9e82-85527d34586c" name="Changes" comment="" />
+    <list default="true" id="68fca4ec-d7b4-492d-9e82-85527d34586c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pay-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pay-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pay-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay-api/target/pay-api-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pay-api/target/pay-api-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay-spring-boot-starter/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pay-spring-boot-starter/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay-spring-boot-starter/target/pay-spring-boot-starter-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pay-spring-boot-starter/target/pay-spring-boot-starter-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2ELJvDTSijSwh74BqTybZEZydZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,6 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "MTConfigurable"
   }
 }]]></component>
@@ -82,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662369161417</updated>
-      <workItem from="1662369163025" duration="3994000" />
+      <workItem from="1662369163025" duration="4496000" />
     </task>
     <servers />
   </component>
